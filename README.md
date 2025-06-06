@@ -44,7 +44,7 @@ A simple but powerful **Flask-based web app** to manage personal or business fin
 Includes income/expense tracking, category management, and export to Excel.  
 > 🧰 *Python, Flask, SQLite, Pandas, Jinja2*
 
-🔗 [View repository]()
+🔗 [View repository](https://github.com/3UR12/registro-financiero.git)
 
 ---
 
