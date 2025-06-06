@@ -24,10 +24,7 @@
 
 ## 🚧 Projects in Progress
 
-- ☕ **Cafeteria Management System** – Flask-based web app for inventory and sales management  
-- 📱 **Differential Equations Calculator** – Educational app built with Kivy and SymPy  
-- 🔐 **User Authentication Module** – Login and admin access using Flask-Login  
-- ⚙️ **Python Utility Scripts** – Automating personal tasks and CLI tools
+- 💰 **Financial Record System** – A Flask-based web application to register, manage, and visualize personal or business financial transactions.
 
 ## 📚 Currently Learning
 
