@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Euris Rodríguez 👋
+# Hi, I'm Euris Rodríguez 
 
 <a href="https://git.io/typing-svg">
   <img
@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a final-year **Computer Systems Engineering** student at the  
 **Interamerican University of Panama**.
@@ -49,14 +49,14 @@ I prefer working on practical solutions where software, data and real-world prob
 
 ---
 
-## ⚡ What I Do
+##  What I Do
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 📊 Data & Analytics
+###  Data & Analytics
 
 I work with data extraction, transformation, analysis and reporting.
 
@@ -87,7 +87,7 @@ I work with data extraction, transformation, analysis and reporting.
 
 <td width="33%" valign="top">
 
-### 💻 Software Development
+###  Software Development
 
 I build applications and tools using different technologies depending on the problem.
 
@@ -116,7 +116,7 @@ I build applications and tools using different technologies depending on the pro
 
 <td width="33%" valign="top">
 
-### 🗄️ Systems & Databases
+###  Systems & Databases
 
 I work with systems where applications, databases and infrastructure need to communicate reliably.
 
@@ -150,7 +150,7 @@ I work with systems where applications, databases and infrastructure need to com
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -199,14 +199,14 @@ I work with systems where applications, databases and infrastructure need to com
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 📈 Data
+###  Data
 
 Currently strengthening my experience in:
 
@@ -224,7 +224,7 @@ Currently strengthening my experience in:
 
 <td width="50%" valign="top">
 
-### ⚙️ Engineering
+###  Engineering
 
 Continuing to develop skills in:
 
@@ -246,7 +246,7 @@ Continuing to develop skills in:
 
 ---
 
-## 🧠 How I Approach Technology
+##  How I Approach Technology
 
 I don't define myself around a single programming language or framework.
 
@@ -268,7 +268,7 @@ The technology is a tool. The objective is to build something that actually work
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -302,10 +302,10 @@ The technology is a tool. The objective is to build something that actually work
 
 ---
 
-## 🧭 Areas I'm Exploring
+##  Areas I'm Exploring
 
 <details>
-<summary><b>📊 Data Engineering & Analytics</b></summary>
+<summary><b> Data Engineering & Analytics</b></summary>
 
 <br>
 
@@ -345,7 +345,7 @@ Current areas of interest include:
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning & Applied AI</b></summary>
+<summary><b> Machine Learning & Applied AI</b></summary>
 
 <br>
 
@@ -363,7 +363,7 @@ Areas of interest include:
 </details>
 
 <details>
-<summary><b>🌐 Geospatial & Mobile Systems</b></summary>
+<summary><b> Geospatial & Mobile Systems</b></summary>
 
 <br>
 
@@ -382,7 +382,7 @@ I've also worked with technologies related to:
 
 ---
 
-## 🎓 Current Stage
+##  Current Stage
 
 ```text
 Degree       : Computer Systems Engineering
@@ -396,7 +396,7 @@ I'm currently combining my university education with professional experience and
 
 ---
 
-## 🤝 Open To
+##  Open To
 
 I'm interested in opportunities related to:
 
@@ -411,7 +411,7 @@ I'm interested in opportunities related to:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
 
