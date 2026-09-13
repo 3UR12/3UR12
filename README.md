@@ -152,54 +152,25 @@ I work with systems where applications, databases and infrastructure need to com
 
 ## Core Toolkit
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Data & BI
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/3UR12/3UR12/main/assets/core-toolkit-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/3UR12/3UR12/main/assets/core-toolkit-light.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/3UR12/3UR12/main/assets/core-toolkit-light.svg"
+    alt="3UR12 core toolkit"
+    width="100%"
+  />
+</picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,fastapi,flask,react,flutter&perline=5" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Databases & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,docker&perline=6" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### Development Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman&perline=6" />
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 <details>
 <summary><b>More technologies I've worked with</b></summary>
