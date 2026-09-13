@@ -150,52 +150,65 @@ I work with systems where applications, databases and infrastructure need to com
 
 ---
 
-##  Tech Stack
+## Core Toolkit
 
-### Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### Data & BI
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,c,cpp,cs&perline=8" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,fastapi,flask,react,flutter&perline=5" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Databases & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,docker&perline=6" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Development Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman&perline=6" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More technologies I've worked with</b></summary>
 
 <br>
 
-### Frameworks & Application Development
+C · C++ · C# · Vite · Tailwind CSS · Kivy · PyQt5 · MapLibre GL · Capacitor · WSL · OpenCV
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,flutter,vite,tailwind&perline=6" />
-
-</div>
-
-<br>
-
-### Databases & Data
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&perline=4" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-</div>
-
-<br>
-
-### Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman&perline=7" />
-
-</div>
+</details>
 
 ---
 
@@ -324,7 +337,7 @@ I'm continuing to expand my understanding of how data moves through complete sys
 </details>
 
 <details>
-<summary><b>⚙️ Backend & Software Architecture</b></summary>
+<summary><b>Backend & Software Architecture</b></summary>
 
 <br>
 
