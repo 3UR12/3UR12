@@ -1,4 +1,4 @@
-````html
+
 <!-- ========================================================= -->
 <!--                 3UR12 · GITHUB PROFILE README              -->
 <!-- ========================================================= -->
@@ -467,12 +467,3 @@ I'm interested in opportunities related to:
 **Computer Systems Engineering · Panama 🇵🇦**
 
 </div>
-```
-
-Creo que esta versión encaja bastante más contigo. **No presume proyectos específicos, sino capacidades**, y deja que quien quiera evaluar tus proyectos entre directamente a tus repositorios.
-
-También tiene más “vida” que el actual: el encabezado cambia de texto, las estadísticas se actualizan, el streak cambia, la gráfica evoluciona con tus commits, tiene dark/light mode y las secciones inferiores son desplegables.
-
-Hay una cosa que sí cambiaría posteriormente: **`sehl3soup@gmail.com`** aparece en tu README antiguo, pero tu cuenta GitHub conectada actualmente utiliza otro correo. No lo cambié automáticamente porque no voy a asumir cuál quieres publicar públicamente.
-
-Si quieres, también puedo hacer el siguiente paso directamente: **actualizar `3UR12/3UR12` con esta versión en tu GitHub**, y después revisamos cómo se renderiza realmente para corregir cualquier elemento que no se vea como esperamos.
