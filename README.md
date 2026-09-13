@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                 3UR12 · GITHUB PROFILE README              -->
 <!-- ========================================================= -->
@@ -263,10 +262,9 @@ Mobile      → Flutter / Capacitor
 Database    → PostgreSQL / Oracle / SQL Server / MariaDB
 Automation  → Python + APIs + scripting
 Deployment  → Docker + Linux
-````
+```
 
-The technology is a tool.
-The objective is to build something that actually works.
+The technology is a tool. The objective is to build something that actually works.
 
 ---
 
@@ -277,59 +275,28 @@ The objective is to build something that actually works.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=3UR12&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    srcset="https://raw.githubusercontent.com/3UR12/3UR12/main/assets/profile-activity-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=3UR12&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+    srcset="https://raw.githubusercontent.com/3UR12/3UR12/main/assets/profile-activity-light.svg"
   />
   <img
-    height="170"
-    alt="Euris GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=3UR12&show_icons=true&hide_border=true"
+    src="https://raw.githubusercontent.com/3UR12/3UR12/main/assets/profile-activity-light.svg"
+    alt="3UR12 GitHub activity dashboard"
+    width="100%"
   />
 </picture>
 
- 
+<br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=3UR12&theme=github-dark-blue&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=3UR12&theme=default&hide_border=true"
-  />
-  <img
-    height="170"
-    alt="Euris GitHub streak"
-    src="https://streak-stats.demolab.com?user=3UR12&hide_border=true"
-  />
-</picture>
+<a href="https://github.com/3UR12/3UR12/actions/workflows/update-profile-activity.yml">
+  <img src="https://github.com/3UR12/3UR12/actions/workflows/update-profile-activity.yml/badge.svg" alt="Update profile activity workflow" />
+</a>
 
-</div>
+<br>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=3UR12&bg_color=0d1117&color=8b949e&line=2f81f7&point=ffffff&area=true&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=3UR12&bg_color=ffffff&color=57606a&line=0969da&point=24292f&area=true&hide_border=true"
-  />
-  <img
-    alt="Euris contribution activity"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=3UR12&theme=github-compact&hide_border=true&area=true"
-  />
-</picture>
+<sub>Generated from GitHub contribution data and refreshed automatically with GitHub Actions.</sub>
 
 </div>
 
@@ -344,15 +311,15 @@ The objective is to build something that actually works.
 
 I'm continuing to expand my understanding of how data moves through complete systems:
 
-* Data extraction
-* Transformation
-* Validation
-* Storage
-* SQL querying
-* Data modeling
-* Visualization
-* Reporting
-* Automation
+- Data extraction
+- Transformation
+- Validation
+- Storage
+- SQL querying
+- Data modeling
+- Visualization
+- Reporting
+- Automation
 
 </details>
 
@@ -365,15 +332,15 @@ I'm interested in building software that remains maintainable as it grows.
 
 Current areas of interest include:
 
-* API architecture
-* Authentication
-* Database design
-* Modular applications
-* Service integration
-* Containerization
-* Testing
-* Deployment
-* Performance
+- API architecture
+- Authentication
+- Database design
+- Modular applications
+- Service integration
+- Containerization
+- Testing
+- Deployment
+- Performance
 
 </details>
 
@@ -386,12 +353,12 @@ I'm exploring machine learning from an engineering perspective, especially where
 
 Areas of interest include:
 
-* Prediction
-* Classification
-* Data preprocessing
-* Model evaluation
-* Automation
-* Integration of models into applications
+- Prediction
+- Classification
+- Data preprocessing
+- Model evaluation
+- Automation
+- Integration of models into applications
 
 </details>
 
@@ -402,14 +369,14 @@ Areas of interest include:
 
 I've also worked with technologies related to:
 
-* GPS
-* Interactive maps
-* OpenStreetMap
-* MapLibre GL
-* Route calculation
-* Mobile applications
-* Device sensors
-* Location-based systems
+- GPS
+- Interactive maps
+- OpenStreetMap
+- MapLibre GL
+- Route calculation
+- Mobile applications
+- Device sensors
+- Location-based systems
 
 </details>
 
@@ -433,14 +400,14 @@ I'm currently combining my university education with professional experience and
 
 I'm interested in opportunities related to:
 
-* Data Analytics
-* Software Development
-* Backend Development
-* Junior Developer positions
-* Data-oriented roles
-* Internships
-* Freelance projects
-* Technology projects where I can continue learning and contributing
+- Data Analytics
+- Software Development
+- Backend Development
+- Junior Developer positions
+- Data-oriented roles
+- Internships
+- Freelance projects
+- Technology projects where I can continue learning and contributing
 
 ---
 
