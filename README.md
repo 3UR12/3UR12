@@ -1,5 +1,6 @@
+````html
 <!-- ========================================================= -->
-<!--                    3UR12 · GITHUB PROFILE                  -->
+<!--                 3UR12 · GITHUB PROFILE README              -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -8,16 +9,17 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Computer+Systems+Engineering+Student;Data+Analytics+%7C+Software+Development;Python+%7C+SQL+%7C+Power+BI+%7C+TypeScript;Building+practical+solutions+from+data+to+software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=900&lines=Computer+Systems+Engineering+Student;Data+Analytics+%7C+Software+Development;Python+%7C+SQL+%7C+Power+BI+%7C+TypeScript;Backend+%7C+Databases+%7C+Automation;Turning+data+and+code+into+practical+solutions"
     alt="Typing SVG"
   />
 </a>
 
 <br>
 
-![Panama](https://img.shields.io/badge/Panama-0D1117?style=flat-square&logo=googlemaps&logoColor=2F81F7)
-![Computer Systems Engineering](https://img.shields.io/badge/Computer%20Systems%20Engineering-0D1117?style=flat-square&logo=academia&logoColor=2F81F7)
-![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-0D1117?style=flat-square&logo=github&logoColor=2F81F7)
+<img src="https://img.shields.io/badge/Panama-0D1117?style=flat-square&logo=googlemaps&logoColor=2F81F7" />
+<img src="https://img.shields.io/badge/Computer%20Systems%20Engineering-0D1117?style=flat-square&logo=academia&logoColor=2F81F7" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Software%20Development-0D1117?style=flat-square&logo=github&logoColor=ffffff" />
 
 </div>
 
@@ -25,59 +27,125 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year **Computer Systems Engineering** student at the
-**Interamerican University of Panama**, currently gaining professional
-experience in **data analytics**.
+I'm a final-year **Computer Systems Engineering** student at the  
+**Interamerican University of Panama**.
 
-My work sits between **data, backend development, web/mobile applications
-and automation**. I enjoy building practical systems that solve concrete
-problems instead of limiting myself to a single technology or platform.
+I'm currently gaining professional experience in **data analytics**, while continuing to develop software, work with databases, build APIs, automate processes and explore different areas of computing.
 
-Today, my main areas of interest are:
+My experience is not limited to a single technology or development area. I have worked with projects involving:
 
-`Data Analytics` · `Backend Development` · `Software Engineering` ·
-`Automation` · `APIs` · `Mobile & Web Development`
+- Data analysis and visualization
+- Relational databases and SQL
+- Backend development
+- REST APIs
+- Web applications
+- Mobile applications
+- Desktop applications
+- Automation
+- Reporting systems
+- Geospatial applications
+- System integration
+
+I prefer working on practical solutions where software, data and real-world problems intersect.
 
 ---
 
-## 💼 What I Work With
+## ⚡ What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 ### 📊 Data & Analytics
 
+I work with data extraction, transformation, analysis and reporting.
+
+**Main tools:**
+
 - Power BI
+- Power Query
+- Excel
 - SQL
 - Oracle
 - SQL Server
 - PostgreSQL
 - MariaDB / MySQL
-- Excel
-- Power Query
 - Report Builder
+- DBeaver
+
+**Areas:**
+
 - Data transformation
 - Dashboard development
-- Reporting workflows
+- Data validation
+- Reporting
+- Query analysis
+- Data modeling
+- KPI visualization
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 ### 💻 Software Development
 
+I build applications and tools using different technologies depending on the problem.
+
+**Languages:**
+
 - Python
-- TypeScript / JavaScript
+- TypeScript
+- JavaScript
 - Dart
 - Java
-- C / C++ / C#
+- C
+- C++
+- C#
+
+**Areas:**
+
+- Backend development
 - REST APIs
-- Object-Oriented Programming
+- Desktop applications
+- Web applications
+- Mobile applications
 - Authentication
-- Database integration
-- Desktop, Web & Mobile applications
+- Business logic
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🗄️ Systems & Databases
+
+I work with systems where applications, databases and infrastructure need to communicate reliably.
+
+**Technologies:**
+
+- PostgreSQL
+- Oracle
+- SQL Server
+- MariaDB
+- MySQL
+- SQLite
+- Supabase
+- Docker
+- Linux / WSL
+- Git
+- GitHub
+
+**Concepts:**
+
+- Relational databases
+- CRUD
+- OOP
+- MVC
+- API integration
+- Database integration
+
+</td>
+
 </tr>
 </table>
 
@@ -87,108 +155,164 @@ Today, my main areas of interest are:
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,c,cpp,cs&perline=8" />
-</p>
+<div align="center">
 
-### Frameworks & Platforms
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,c,cpp,cs&perline=8" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,flutter,vite,tailwind,supabase&perline=7" />
-</p>
+</div>
 
-### Databases
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=6" />
-</p>
+### Frameworks & Application Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+<div align="center">
 
-### Development & Infrastructure
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,flutter,vite,tailwind&perline=6" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman&perline=7" />
-</p>
+</div>
+
+<br>
+
+### Databases & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&perline=4" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+</div>
+
+<br>
+
+### Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman&perline=7" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Current Focus
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🥾 Panamá Smart Trails
+### 📈 Data
 
-Navigation and trail-planning platform designed for parks and hiking
-environments in Panama.
+Currently strengthening my experience in:
 
-**Features**
-
-- Interactive maps
-- Trail routing
-- Multi-stop routes
-- Points of interest
-- GPS integration
-- Community incident reports
-- Text and voice queries
-- Android application
-
-**Stack**
-
-`React` `TypeScript` `Vite` `Capacitor`  
-`FastAPI` `Supabase` `PostgreSQL`  
-`MapLibre GL` `OpenStreetMap`
-
-<br>
-
-<a href="https://github.com/3UR12/Ingenieria-de-sistemas-2">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- Data analytics
+- SQL querying
+- Power BI
+- Power Query
+- Data modeling
+- Dashboard design
+- Reporting systems
+- Data quality
+- Process analysis
 
 </td>
+
 <td width="50%" valign="top">
 
-### 💰 Financial Record System
+### ⚙️ Engineering
 
-Desktop application for organizing and exporting personal or business
-financial movements.
+Continuing to develop skills in:
 
-**Features**
-
-- Income and expense tracking
-- Automatic balance calculation
-- Data filtering
-- Excel export
-- Local data management
-- Desktop graphical interface
-
-**Stack**
-
-`Python` `Tkinter` `ttkbootstrap`  
-`openpyxl` `OOP`
-
-<br>
-
-<a href="https://github.com/3UR12/registro-financiero">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- Backend architecture
+- API development
+- PostgreSQL
+- Supabase
+- Docker
+- React + TypeScript
+- Flutter
+- Software architecture
+- Automation
+- Applied machine learning
 
 </td>
+
 </tr>
 </table>
 
-> Some current projects are kept in private repositories while they are under development.
+---
+
+## 🧠 How I Approach Technology
+
+I don't define myself around a single programming language or framework.
+
+I prefer understanding the problem first and then selecting the tools that make sense for the solution.
+
+Depending on the project, that can mean:
+
+```text
+Data        → SQL + Power BI + Power Query
+Backend     → Python + FastAPI / Flask
+Web         → React + TypeScript
+Mobile      → Flutter / Capacitor
+Database    → PostgreSQL / Oracle / SQL Server / MariaDB
+Automation  → Python + APIs + scripting
+Deployment  → Docker + Linux
+````
+
+The technology is a tool.
+The objective is to build something that actually works.
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=3UR12&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=3UR12&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+  />
+  <img
+    height="170"
+    alt="Euris GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=3UR12&show_icons=true&hide_border=true"
+  />
+</picture>
+
+ 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=3UR12&theme=github-dark-blue&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=3UR12&theme=default&hide_border=true"
+  />
+  <img
+    height="170"
+    alt="Euris GitHub streak"
+    src="https://streak-stats.demolab.com?user=3UR12&hide_border=true"
+  />
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -202,71 +326,90 @@ financial movements.
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=3UR12&bg_color=ffffff&color=57606a&line=0969da&point=24292f&area=true&hide_border=true"
   />
   <img
-    alt="Euris GitHub activity graph"
+    alt="Euris contribution activity"
     src="https://github-readme-activity-graph.vercel.app/graph?username=3UR12&theme=github-compact&hide_border=true&area=true"
   />
 </picture>
 
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=3UR12&theme=github-dark-blue&hide_border=true"
-  />
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=3UR12&hide_border=true"
-  />
-</picture>
-
 </div>
 
 ---
 
-## 🐍 Contributions in Motion
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/3UR12/3UR12/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/3UR12/3UR12/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/3UR12/3UR12/output/github-snake.svg"
-  />
-</picture>
-
-</div>
-
----
+## 🧭 Areas I'm Exploring
 
 <details>
-<summary><b>🔎 More about my current technical interests</b></summary>
+<summary><b>📊 Data Engineering & Analytics</b></summary>
 
 <br>
 
-I'm especially interested in systems where multiple areas of computing
-intersect:
+I'm continuing to expand my understanding of how data moves through complete systems:
 
-- data processing and visualization;
-- backend services and REST APIs;
-- relational database design;
-- automation;
-- mobile and web applications;
-- geospatial applications;
-- software architecture;
-- deployment and containerization;
-- applied machine learning.
+* Data extraction
+* Transformation
+* Validation
+* Storage
+* SQL querying
+* Data modeling
+* Visualization
+* Reporting
+* Automation
 
-I prefer building projects around real problems and evaluating technologies
-based on what the project actually needs.
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Software Architecture</b></summary>
+
+<br>
+
+I'm interested in building software that remains maintainable as it grows.
+
+Current areas of interest include:
+
+* API architecture
+* Authentication
+* Database design
+* Modular applications
+* Service integration
+* Containerization
+* Testing
+* Deployment
+* Performance
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning & Applied AI</b></summary>
+
+<br>
+
+I'm exploring machine learning from an engineering perspective, especially where it can be applied to real datasets and measurable problems.
+
+Areas of interest include:
+
+* Prediction
+* Classification
+* Data preprocessing
+* Model evaluation
+* Automation
+* Integration of models into applications
+
+</details>
+
+<details>
+<summary><b>🌐 Geospatial & Mobile Systems</b></summary>
+
+<br>
+
+I've also worked with technologies related to:
+
+* GPS
+* Interactive maps
+* OpenStreetMap
+* MapLibre GL
+* Route calculation
+* Mobile applications
+* Device sensors
+* Location-based systems
 
 </details>
 
@@ -274,9 +417,30 @@ based on what the project actually needs.
 
 ## 🎓 Current Stage
 
-Currently completing the final stage of my **Computer Systems Engineering**
-degree while gaining professional experience in **data analytics** and
-continuing to develop software projects independently and academically.
+```text
+Degree       : Computer Systems Engineering
+University   : Interamerican University of Panama
+Stage        : Final year
+Location     : Panama 🇵🇦
+Main focus   : Data Analytics + Software Development
+```
+
+I'm currently combining my university education with professional experience and independent software development.
+
+---
+
+## 🤝 Open To
+
+I'm interested in opportunities related to:
+
+* Data Analytics
+* Software Development
+* Backend Development
+* Junior Developer positions
+* Data-oriented roles
+* Internships
+* Freelance projects
+* Technology projects where I can continue learning and contributing
 
 ---
 
@@ -298,6 +462,17 @@ continuing to develop software projects independently and academically.
 
 <div align="center">
 
-**Panama 🇵🇦 · Computer Systems Engineering · Data Analytics · Software Development**
+### `Data · Software · Systems`
+
+**Computer Systems Engineering · Panama 🇵🇦**
 
 </div>
+```
+
+Creo que esta versión encaja bastante más contigo. **No presume proyectos específicos, sino capacidades**, y deja que quien quiera evaluar tus proyectos entre directamente a tus repositorios.
+
+También tiene más “vida” que el actual: el encabezado cambia de texto, las estadísticas se actualizan, el streak cambia, la gráfica evoluciona con tus commits, tiene dark/light mode y las secciones inferiores son desplegables.
+
+Hay una cosa que sí cambiaría posteriormente: **`sehl3soup@gmail.com`** aparece en tu README antiguo, pero tu cuenta GitHub conectada actualmente utiliza otro correo. No lo cambié automáticamente porque no voy a asumir cuál quieres publicar públicamente.
+
+Si quieres, también puedo hacer el siguiente paso directamente: **actualizar `3UR12/3UR12` con esta versión en tu GitHub**, y después revisamos cómo se renderiza realmente para corregir cualquier elemento que no se vea como esperamos.
