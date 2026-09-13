@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-labelledby="title desc">
+  <title id="title">3UR12 core toolkit</title>
+  <desc id="desc">Animated monochrome ticker showing core technologies.</desc>
+  <defs>
+    <linearGradient id="fade-left" x1="0" x2="1">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset="0.08" stop-color="white" stop-opacity="1"/>
+      <stop offset="1" stop-color="white" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fade-right" x1="0" x2="1">
+      <stop offset="0" stop-color="white" stop-opacity="1"/>
+      <stop offset="0.92" stop-color="white" stop-opacity="1"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edge-fade">
+      <rect width="1200" height="64" fill="url(#fade-left)"/>
+      <rect width="1200" height="64" fill="url(#fade-right)"/>
+    </mask>
+    <style>
+      .pill { fill:#f6f8fa; stroke:#d0d7de; stroke-width:1; }
+      .label { fill:#24292f; font:600 14px 'Segoe UI',Ubuntu,sans-serif; dominant-baseline:middle; text-anchor:middle; }
+      .dot { fill:#0969da; }
+    </style>
+  </defs>
+  <g mask="url(#edge-fade)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-3180 0" dur="38s" repeatCount="indefinite"/>
+      <g>
+        <rect class="pill" x="10" y="17" width="100" height="30" rx="15"/><circle class="dot" cx="26" cy="32" r="3"/><text class="label" x="64" y="32">Power BI</text>
+        <rect class="pill" x="122" y="17" width="74" height="30" rx="15"/><circle class="dot" cx="138" cy="32" r="3"/><text class="label" x="165" y="32">SQL</text>
+        <rect class="pill" x="208" y="17" width="88" height="30" rx="15"/><circle class="dot" cx="224" cy="32" r="3"/><text class="label" x="258" y="32">Oracle</text>
+        <rect class="pill" x="308" y="17" width="112" height="30" rx="15"/><circle class="dot" cx="324" cy="32" r="3"/><text class="label" x="369" y="32">SQL Server</text>
+        <rect class="pill" x="432" y="17" width="118" height="30" rx="15"/><circle class="dot" cx="448" cy="32" r="3"/><text class="label" x="496" y="32">Power Query</text>
+        <rect class="pill" x="562" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="578" cy="32" r="3"/><text class="label" x="607" y="32">Excel</text>
+        <rect class="pill" x="656" y="17" width="92" height="30" rx="15"/><circle class="dot" cx="672" cy="32" r="3"/><text class="label" x="707" y="32">Python</text>
+        <rect class="pill" x="760" y="17" width="116" height="30" rx="15"/><circle class="dot" cx="776" cy="32" r="3"/><text class="label" x="824" y="32">TypeScript</text>
+        <rect class="pill" x="888" y="17" width="122" height="30" rx="15"/><circle class="dot" cx="904" cy="32" r="3"/><text class="label" x="956" y="32">JavaScript</text>
+        <rect class="pill" x="1022" y="17" width="80" height="30" rx="15"/><circle class="dot" cx="1038" cy="32" r="3"/><text class="label" x="1067" y="32">Dart</text>
+        <rect class="pill" x="1114" y="17" width="78" height="30" rx="15"/><circle class="dot" cx="1130" cy="32" r="3"/><text class="label" x="1158" y="32">Java</text>
+        <rect class="pill" x="1204" y="17" width="96" height="30" rx="15"/><circle class="dot" cx="1220" cy="32" r="3"/><text class="label" x="1258" y="32">FastAPI</text>
+        <rect class="pill" x="1312" y="17" width="80" height="30" rx="15"/><circle class="dot" cx="1328" cy="32" r="3"/><text class="label" x="1358" y="32">Flask</text>
+        <rect class="pill" x="1404" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="1420" cy="32" r="3"/><text class="label" x="1449" y="32">React</text>
+        <rect class="pill" x="1498" y="17" width="90" height="30" rx="15"/><circle class="dot" cx="1514" cy="32" r="3"/><text class="label" x="1548" y="32">Flutter</text>
+        <rect class="pill" x="1600" y="17" width="112" height="30" rx="15"/><circle class="dot" cx="1616" cy="32" r="3"/><text class="label" x="1664" y="32">PostgreSQL</text>
+        <rect class="pill" x="1724" y="17" width="104" height="30" rx="15"/><circle class="dot" cx="1740" cy="32" r="3"/><text class="label" x="1782" y="32">MariaDB</text>
+        <rect class="pill" x="1840" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="1856" cy="32" r="3"/><text class="label" x="1885" y="32">SQLite</text>
+        <rect class="pill" x="1934" y="17" width="102" height="30" rx="15"/><circle class="dot" cx="1950" cy="32" r="3"/><text class="label" x="1992" y="32">Supabase</text>
+        <rect class="pill" x="2048" y="17" width="88" height="30" rx="15"/><circle class="dot" cx="2064" cy="32" r="3"/><text class="label" x="2098" y="32">Docker</text>
+        <rect class="pill" x="2148" y="17" width="72" height="30" rx="15"/><circle class="dot" cx="2164" cy="32" r="3"/><text class="label" x="2192" y="32">Git</text>
+        <rect class="pill" x="2232" y="17" width="88" height="30" rx="15"/><circle class="dot" cx="2248" cy="32" r="3"/><text class="label" x="2282" y="32">GitHub</text>
+        <rect class="pill" x="2332" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="2348" cy="32" r="3"/><text class="label" x="2377" y="32">Linux</text>
+        <rect class="pill" x="2426" y="17" width="92" height="30" rx="15"/><circle class="dot" cx="2442" cy="32" r="3"/><text class="label" x="2478" y="32">VS Code</text>
+        <rect class="pill" x="2530" y="17" width="86" height="30" rx="15"/><circle class="dot" cx="2546" cy="32" r="3"/><text class="label" x="2578" y="32">IntelliJ</text>
+        <rect class="pill" x="2628" y="17" width="92" height="30" rx="15"/><circle class="dot" cx="2644" cy="32" r="3"/><text class="label" x="2680" y="32">Postman</text>
+        <rect class="pill" x="2732" y="17" width="110" height="30" rx="15"/><circle class="dot" cx="2748" cy="32" r="3"/><text class="label" x="2795" y="32">Report Builder</text>
+        <rect class="pill" x="2854" y="17" width="86" height="30" rx="15"/><circle class="dot" cx="2870" cy="32" r="3"/><text class="label" x="2902" y="32">DBeaver</text>
+        <rect class="pill" x="2952" y="17" width="96" height="30" rx="15"/><circle class="dot" cx="2968" cy="32" r="3"/><text class="label" x="3006" y="32">FastAPI</text>
+        <rect class="pill" x="3060" y="17" width="110" height="30" rx="15"/><circle class="dot" cx="3076" cy="32" r="3"/><text class="label" x="3123" y="32">REST APIs</text>
+      </g>
+      <g transform="translate(3180 0)">
+        <rect class="pill" x="10" y="17" width="100" height="30" rx="15"/><circle class="dot" cx="26" cy="32" r="3"/><text class="label" x="64" y="32">Power BI</text>
+        <rect class="pill" x="122" y="17" width="74" height="30" rx="15"/><circle class="dot" cx="138" cy="32" r="3"/><text class="label" x="165" y="32">SQL</text>
+        <rect class="pill" x="208" y="17" width="88" height="30" rx="15"/><circle class="dot" cx="224" cy="32" r="3"/><text class="label" x="258" y="32">Oracle</text>
+        <rect class="pill" x="308" y="17" width="112" height="30" rx="15"/><circle class="dot" cx="324" cy="32" r="3"/><text class="label" x="369" y="32">SQL Server</text>
+        <rect class="pill" x="432" y="17" width="118" height="30" rx="15"/><circle class="dot" cx="448" cy="32" r="3"/><text class="label" x="496" y="32">Power Query</text>
+        <rect class="pill" x="562" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="578" cy="32" r="3"/><text class="label" x="607" y="32">Excel</text>
+        <rect class="pill" x="656" y="17" width="92" height="30" rx="15"/><circle class="dot" cx="672" cy="32" r="3"/><text class="label" x="707" y="32">Python</text>
+        <rect class="pill" x="760" y="17" width="116" height="30" rx="15"/><circle class="dot" cx="776" cy="32" r="3"/><text class="label" x="824" y="32">TypeScript</text>
+        <rect class="pill" x="888" y="17" width="122" height="30" rx="15"/><circle class="dot" cx="904" cy="32" r="3"/><text class="label" x="956" y="32">JavaScript</text>
+        <rect class="pill" x="1022" y="17" width="80" height="30" rx="15"/><circle class="dot" cx="1038" cy="32" r="3"/><text class="label" x="1067" y="32">Dart</text>
+        <rect class="pill" x="1114" y="17" width="78" height="30" rx="15"/><circle class="dot" cx="1130" cy="32" r="3"/><text class="label" x="1158" y="32">Java</text>
+        <rect class="pill" x="1204" y="17" width="96" height="30" rx="15"/><circle class="dot" cx="1220" cy="32" r="3"/><text class="label" x="1258" y="32">FastAPI</text>
+        <rect class="pill" x="1312" y="17" width="80" height="30" rx="15"/><circle class="dot" cx="1328" cy="32" r="3"/><text class="label" x="1358" y="32">Flask</text>
+        <rect class="pill" x="1404" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="1420" cy="32" r="3"/><text class="label" x="1449" y="32">React</text>
+        <rect class="pill" x="1498" y="17" width="90" height="30" rx="15"/><circle class="dot" cx="1514" cy="32" r="3"/><text class="label" x="1548" y="32">Flutter</text>
+        <rect class="pill" x="1600" y="17" width="112" height="30" rx="15"/><circle class="dot" cx="1616" cy="32" r="3"/><text class="label" x="1664" y="32">PostgreSQL</text>
+        <rect class="pill" x="1724" y="17" width="104" height="30" rx="15"/><circle class="dot" cx="1740" cy="32" r="3"/><text class="label" x="1782" y="32">MariaDB</text>
+        <rect class="pill" x="1840" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="1856" cy="32" r="3"/><text class="label" x="1885" y="32">SQLite</text>
+        <rect class="pill" x="1934" y="17" width="102" height="30" rx="15"/><circle class="dot" cx="1950" cy="32" r="3"/><text class="label" x="1992" y="32">Supabase</text>
+        <rect class="pill" x="2048" y="17" width="88" height="30" rx="15"/><circle class="dot" cx="2064" cy="32" r="3"/><text class="label" x="2098" y="32">Docker</text>
+        <rect class="pill" x="2148" y="17" width="72" height="30" rx="15"/><circle class="dot" cx="2164" cy="32" r="3"/><text class="label" x="2192" y="32">Git</text>
+        <rect class="pill" x="2232" y="17" width="88" height="30" rx="15"/><circle class="dot" cx="2248" cy="32" r="3"/><text class="label" x="2282" y="32">GitHub</text>
+        <rect class="pill" x="2332" y="17" width="82" height="30" rx="15"/><circle class="dot" cx="2348" cy="32" r="3"/><text class="label" x="2377" y="32">Linux</text>
+        <rect class="pill" x="2426" y="17" width="92" height="30" rx="15"/><circle class="dot" cx="2442" cy="32" r="3"/><text class="label" x="2478" y="32">VS Code</text>
+        <rect class="pill" x="2530" y="17" width="86" height="30" rx="15"/><circle class="dot" cx="2546" cy="32" r="3"/><text class="label" x="2578" y="32">IntelliJ</text>
+        <rect class="pill" x="2628" y="17" width="92" height="30" rx="15"/><circle class="dot" cx="2644" cy="32" r="3"/><text class="label" x="2680" y="32">Postman</text>
+        <rect class="pill" x="2732" y="17" width="110" height="30" rx="15"/><circle class="dot" cx="2748" cy="32" r="3"/><text class="label" x="2795" y="32">Report Builder</text>
+        <rect class="pill" x="2854" y="17" width="86" height="30" rx="15"/><circle class="dot" cx="2870" cy="32" r="3"/><text class="label" x="2902" y="32">DBeaver</text>
+        <rect class="pill" x="2952" y="17" width="96" height="30" rx="15"/><circle class="dot" cx="2968" cy="32" r="3"/><text class="label" x="3006" y="32">FastAPI</text>
+        <rect class="pill" x="3060" y="17" width="110" height="30" rx="15"/><circle class="dot" cx="3076" cy="32" r="3"/><text class="label" x="3123" y="32">REST APIs</text>
+      </g>
+    </g>
+  </g>
+</svg>
