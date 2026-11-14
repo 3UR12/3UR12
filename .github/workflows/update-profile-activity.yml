@@ -1,15 +1,8 @@
 name: Update profile activity
 
+# Manual only: disable hourly profile-refresh jobs to avoid unused compute.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "37 * * * *"
-  push:
-    branches:
-      - main
-    paths:
-      - "scripts/generate_profile_activity.py"
-      - ".github/workflows/update-profile-activity.yml"
 
 permissions:
   contents: write
